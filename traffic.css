@@ -1,0 +1,29 @@
+#box{
+    background-color: black;
+    height: 120;
+    width: 50;
+    border-radius: 10px;
+    padding: 2px;
+    margin: 100px;
+}
+#red{
+    background-color: red;
+    height: 20px;
+    width: 20px;
+    border-radius: 100%;
+    margin:15px;
+}
+#yellow{
+    background-color: yellow;
+    height: 20px;
+    width: 20px;
+    border-radius: 100%;
+    margin:15px;
+}
+#green{
+    background-color:green;
+    height: 20px;
+    width: 20px;
+    border-radius: 100%;
+    margin:15px;
+}
